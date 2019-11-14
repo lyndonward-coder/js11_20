@@ -72,6 +72,7 @@ function endOther(letters1, letters2) {
     return result
 }
 
+
 function  starOut(string){
     var newString = "";
     for(i = 0 ; i<string.length; i++) {
